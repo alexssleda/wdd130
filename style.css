@@ -1,0 +1,29 @@
+main {
+    max-width: 840px;
+}
+
+aside {
+    max-width: 840px;
+    margin: 10px;
+    border: none;
+    padding: auto;
+    background-color: antiquewhite;
+    color: brown;
+}
+
+aside img {
+    width: 200px;
+    height: auto;
+}
+
+p {
+    padding: 0;
+}
+
+footer {
+    margin-top: 50px;
+    border-top: 20px;
+    align-items: center;
+    text-align: center;
+
+}
